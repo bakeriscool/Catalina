@@ -1,6 +1,6 @@
 # Catalina Bot Terms of Service
 
-**Effective Date:** [Date]
+**Effective Date:** 9/3/2024
 
 **Welcome to Catalina, the official moderation bot for Le Cercle des Élites!** This document outlines the terms and conditions under which you may interact with Catalina. By using Catalina, you agree to abide by these Terms of Service ("Terms"). Please read them carefully to understand your rights and obligations.
 
